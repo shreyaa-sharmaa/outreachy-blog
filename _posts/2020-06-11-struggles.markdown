@@ -1,0 +1,30 @@
+---
+layout: post
+title: Everybody Struggles
+date: 2020-06-11 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: software.jpg # Add image post (optional)
+tags: [Productivity, Software] # add tag
+---
+
+All of us have been stuck at some point of time. And this blog post is about adressing those times. These are some of the questions asked by the Outreach community.
+
+### What were you stuck on? Why was it hard?
+
+Some of the craziest times I've spent going over any code is while tracking a bug down. For those contributing in any project, it takes time to get acquainted with the code base. And the best way to do that? Some quick bug-fixing. But for me, it was anything but quick. When you work, there are new challenges everyday. Some days are productive and some not so much and at these times, it is okay to look for help and guidance. It takes me a lot of time to ask for help. Would my doubt be too silly? Would I sound amateur? And that hesitation was what made it harder for me. But what I've learnt in my experience so far is that I'm the only person hindering my learning with the constant doubts.
+
+### Where did you search for help?
+
+There's a high chance that the trouble you're facing was faced by many others. So who do you ask for help? Google knows everything! Before you turn to anyone else for help, make a quick search and you just might be in luck. Sometimes it's a small dependency or reasonable alternative that could fix your troubles. Remember knowing the right keywords is the key, and looking for a solution on internet, an acquired skill. So keep practising!
+
+### What resources did you find? Were any of those resources out of date or confusing?
+
+Many of my solutions have come from stackoverflow.com, existing github issues and the official documentations. Sometimes the solutions that worked for someone else won't work for you. Or it could be that you don't understand what they're asking you to do. My advice would be to stop complicating things. Don't follow what you do not understand. Don't mess with the system permissions. 
+
+So turn to your mentor for help, or ask on the community's chat forum, or anyone you've seen contributing regularly to your project. And do this where someone else who comes looking for a solution to the same problem can see it too. And if you've been stuck somehwere for long, drop a message in the community's chat forum, get up, stretch and take a walk. A clear mind helps.
+
+### What happened when you reached out for help? What would you tell someone who is worried about asking for help?
+
+When you get stuck, you get a chance to learn something new. And you're the one turning away from that chance if you are afraid to ask. No one would remember the guy/girl who asked too many questions but you'll remember what you take home that day. Like I said in the last post
+
+> Be brave in your pursuit of knowledge.
