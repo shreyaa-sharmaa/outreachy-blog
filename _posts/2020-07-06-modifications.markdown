@@ -21,7 +21,7 @@ When I started working, after a conversation with the team and mentors, the proj
 
 ## Modified Project Plan
 
-Keeping in mind the needs of the community and the having a long sighted vision for this project, some major changes were:
+Keeping in mind the needs of the community and the having a long sighted vision for this project, some major changes were:   
 For the maintainability and ease of contribution:  
 * Adding a linting tool
 * Adding a test suite   
