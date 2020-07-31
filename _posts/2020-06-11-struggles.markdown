@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everybody Struggles
-date: 2020-06-11 00:00:00 +0300
+date: 2020-06-11 00:00:00 +0200
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: software.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
